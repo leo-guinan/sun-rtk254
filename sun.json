@@ -1,0 +1,382 @@
+{
+  "id": "sun-rtk254",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@rtk254 Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_687d4e148d9c",
+    "display_name": "rtk254",
+    "user_id": "@rtk254",
+    "description": "Community Archive-derived proof-of-search sun for @rtk254.",
+    "document_count": 3562,
+    "word_count": 81918,
+    "active_days": 1160,
+    "emissions": [
+      "Interesting",
+      "Language",
+      "Paper",
+      "New",
+      "Research",
+      "Science"
+    ],
+    "generated_at": "2026-06-27T17:09:31.938353+00:00",
+    "color": "#f59e0b",
+    "mass": 11.313
+  },
+  "planets": [
+    {
+      "id": "planet_8aad21eabfdc",
+      "name": "Interesting",
+      "summary": "Archive cluster around interesting: 2911 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "interesting",
+        "work",
+        "data",
+        "really",
+        "human"
+      ],
+      "artifacts": [
+        {
+          "id": "art_0d92417ee532",
+          "title": "Interesting receipt from 2024-07-30",
+          "excerpt": "Selectively breeding the most *individually* productive hens leads to lower overall egg production, so chicken farmers have cleverly learned to shift selection to the level of the *group*.  Economists, on the other hand &gt; https://t.co/TfNtXqGL9x",
+          "source_document_id": "1818102537641242778",
+          "timestamp": "2024-07-30T01:53:18+00:00",
+          "url": "https://x.com/rtk254/status/1818102537641242778",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: interesting, work, data, really."
+        },
+        {
+          "id": "art_b4724423bf1b",
+          "title": "Interesting receipt from 2024-07-30",
+          "excerpt": "have achieved a degenerate reversal of devaluing everything except personal gain. When will the chicken farmers rescue us from the neoliberal economists? https://t.co/mZwjjWct7W",
+          "source_document_id": "1818102657862586801",
+          "timestamp": "2024-07-30T01:53:47+00:00",
+          "url": "https://x.com/rtk254/status/1818102657862586801",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: interesting, work, data, really."
+        },
+        {
+          "id": "art_b7a8afcf6d57",
+          "title": "Interesting receipt from 2024-08-25",
+          "excerpt": "@hermittoday “We would rather be ruined than changed. We would rather die in our dread than climb the cross of the moment and see our illusions die.” -- W.H. Auden",
+          "source_document_id": "1827851925842501786",
+          "timestamp": "2024-08-25T23:33:53+00:00",
+          "url": "https://x.com/rtk254/status/1827851925842501786",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: interesting, work, data, really."
+        },
+        {
+          "id": "art_344d972304f8",
+          "title": "Interesting receipt from 2024-09-08",
+          "excerpt": "👀\nfiling under \"we already have superintelligences with anti-human goals - corporations\" https://t.co/yGMQnpIWT1",
+          "source_document_id": "1832769861728030803",
+          "timestamp": "2024-09-08T13:16:00+00:00",
+          "url": "https://x.com/rtk254/status/1832769861728030803",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: interesting, work, data, really."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_4e32009b9c1b",
+      "proof_score": 1,
+      "mass": 33.189,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_d74ce5cfddf5",
+      "name": "Language",
+      "summary": "Archive cluster around language: 165 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "language",
+        "models",
+        "world",
+        "paper",
+        "understanding"
+      ],
+      "artifacts": [
+        {
+          "id": "art_d5c6d4955e47",
+          "title": "Language receipt from 2024-02-11",
+          "excerpt": "A few months late - my PhD Thesis is finally up on arXiv 🎉\n\n\"What's my model inside of?\": Exploring the role of environments for grounded natural language understanding\n\nTL;DR in two excerpts\nhttps://t.co/5dYfVW712v\n\n#PhDone https://t.co/cYtQwryCRW",
+          "source_document_id": "1756693398289809510",
+          "timestamp": "2024-02-11T14:55:18+00:00",
+          "url": "https://x.com/rtk254/status/1756693398289809510",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: language, models, world, paper."
+        },
+        {
+          "id": "art_726c615c0493",
+          "title": "Language receipt from 2020-04-04",
+          "excerpt": "Our position paper on the importance of metaphor and mental simulation in natural language understanding was accepted to #acl2020nlp! Metaphor is turning out to be quite a rabbit hole... ;) Crazy and fun ride @ChenShani2  @HyadataLab https://t.co/G8er6wyWpl",
+          "source_document_id": "1246507679255867393",
+          "timestamp": "2020-04-04T18:39:24+00:00",
+          "url": "https://x.com/rtk254/status/1246507679255867393",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: language, models, world, paper."
+        },
+        {
+          "id": "art_6459246c0076",
+          "title": "Language receipt from 2020-08-12",
+          "excerpt": "There may be a similar issue in NLP, where SOTA transformer models fail on synthetic language compositionality tests (e.g. https://t.co/sw9JJr0Q6k), and yet such \"toy\" tasks are often frowned upon. https://t.co/o68VZF1m5z",
+          "source_document_id": "1293654734654644224",
+          "timestamp": "2020-08-12T21:04:58+00:00",
+          "url": "https://x.com/rtk254/status/1293654734654644224",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: language, models, world, paper."
+        },
+        {
+          "id": "art_3375c6bb20ae",
+          "title": "Language receipt from 2024-05-12",
+          "excerpt": "Language models != world models\n\"Probing Multimodal LLMs as World Models for Driving\" \nhttps://t.co/EnOfNem3a6 https://t.co/kMAehfm8UU",
+          "source_document_id": "1789670256010740099",
+          "timestamp": "2024-05-12T14:53:34+00:00",
+          "url": "https://x.com/rtk254/status/1789670256010740099",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: language, models, world, paper."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_65fd6307aedc",
+      "proof_score": 0.861,
+      "mass": 25.417,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_9d19bf720d55",
+      "name": "Paper",
+      "summary": "Archive cluster around paper: 152 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "paper",
+        "new",
+        "cool",
+        "llms",
+        "science"
+      ],
+      "artifacts": [
+        {
+          "id": "art_a5e89886bb10",
+          "title": "Paper receipt from 2022-05-18",
+          "excerpt": "For all the impressive performance of LLMs like 🐕/🦩, I would still be really surprised if they could reliably solve the type of challenge we suggested in our ACL2020 paper, eg a story + qs about the final state (how many fruits are now in crate 2?)\nhttps://t.co/rpIoa76MTX https://t.co/iE9LXYXoYk https://t.co/pzoz3jDPTS",
+          "source_document_id": "1526781264832802816",
+          "timestamp": "2022-05-18T04:26:34+00:00",
+          "url": "https://x.com/rtk254/status/1526781264832802816",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: paper, new, cool, llms."
+        },
+        {
+          "id": "art_9b6787643b66",
+          "title": "Paper receipt from 2020-03-11",
+          "excerpt": "Blue-sky proposal paper accepted for spotlight @ Bridging AI and Cognitive Science workshop, ICLR2020! https://t.co/i0ZKePIa4n\nWork with @GabiStanovsky  @rtsarfaty  and Dafna Shahaf (@HyadataLab)\n1/n",
+          "source_document_id": "1237799880569036800",
+          "timestamp": "2020-03-11T17:57:43+00:00",
+          "url": "https://x.com/rtk254/status/1237799880569036800",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: paper, new, cool, llms."
+        },
+        {
+          "id": "art_00c837bb6908",
+          "title": "Paper receipt from 2024-03-10",
+          "excerpt": "Some people imagine the future of science as LLMs peer-reviewing other LLM written papers, and that future seems pretty bleak to me. This excellent paper details the hazards of over-automating science and challenges us to re-humanize the scientific endeavor. Thoughts in 🧵1/6 https://t.co/jvso2fMLH3",
+          "source_document_id": "1766945020785885651",
+          "timestamp": "2024-03-10T21:51:35+00:00",
+          "url": "https://x.com/rtk254/status/1766945020785885651",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: paper, new, cool, llms."
+        },
+        {
+          "id": "art_e2e7678b4932",
+          "title": "Paper receipt from 2023-12-17",
+          "excerpt": "The next scientific revolution will be *metascientific* - in how we do science.  IMO this paper presents a compelling vision for a new kind of science - more democratic, inclusive and relevant.\n🧵 of related thoughts/excerpts &gt; 1/ https://t.co/rZu2EmSwAf",
+          "source_document_id": "1736433905362665670",
+          "timestamp": "2023-12-17T17:11:19+00:00",
+          "url": "https://x.com/rtk254/status/1736433905362665670",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: paper, new, cool, llms."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_3b03314671a5",
+      "proof_score": 0.853,
+      "mass": 24.93,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_1402a442aaba",
+      "name": "New",
+      "summary": "Archive cluster around new: 131 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "new",
+        "data",
+        "science",
+        "social",
+        "research"
+      ],
+      "artifacts": [
+        {
+          "id": "art_5eae2bd6246a",
+          "title": "New receipt from 2023-12-05",
+          "excerpt": "🎉Life update: I'm starting a new position as an Entrepreneur-in-Residence @AsteraInstitute!\n\nI’ll be working on upgrading science social media by combining AI and federated semantic nanopublishing to improve how we collaboratively make sense of science (in the open!) &gt; https://t.co/AJzhPFMwCR",
+          "source_document_id": "1732044124508008571",
+          "timestamp": "2023-12-05T14:27:53+00:00",
+          "url": "https://x.com/rtk254/status/1732044124508008571",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: new, data, science, social."
+        },
+        {
+          "id": "art_927b004693e2",
+          "title": "New receipt from 2022-05-23",
+          "excerpt": "1/Excited to share some new work on collective sensemaking! We’ll present it in the Blue Sky Ideas track (~open, exciting areas for R&amp;D) of the upcoming @ACMHT This is a collective effort of @daostack, Veeo, @InferenceActive @CSenseMakers @HyadataLab https://t.co/JAcnB4YSpk🧵",
+          "source_document_id": "1528742051461865472",
+          "timestamp": "2022-05-23T14:18:02+00:00",
+          "url": "https://x.com/rtk254/status/1528742051461865472",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: new, data, science, social."
+        },
+        {
+          "id": "art_f028669af724",
+          "title": "New receipt from 2024-01-01",
+          "excerpt": "New year, new ways to do science! 🍾🔭 I'm excited to share some details about Sensemaking Networks, the project I’ll be developing this year @AsteraInstitute! 🧵1/\nBlog post version (2 parts): \nhttps://t.co/luSwcHXS1k\nhttps://t.co/eZ0ysMt7mJ https://t.co/ceLVkDRnbQ",
+          "source_document_id": "1741841607421263966",
+          "timestamp": "2024-01-01T15:19:35+00:00",
+          "url": "https://x.com/rtk254/status/1741841607421263966",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: new, data, science, social."
+        },
+        {
+          "id": "art_3cf9660ffad3",
+          "title": "New receipt from 2021-12-02",
+          "excerpt": "Excited to share our new preprint! We take a deep dive into the bAbI benchmark. Why bAbI? It targets a core NLU competency of *grounded situation modelling* for which very few benchmarks currently exist https://t.co/QDygVlKtG4. Longish 🧵&gt; 1/ https://t.co/WIsC8e2KBz",
+          "source_document_id": "1466435545060495364",
+          "timestamp": "2021-12-02T15:54:13+00:00",
+          "url": "https://x.com/rtk254/status/1466435545060495364",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: new, data, science, social."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_4b20fabd5d2d",
+      "proof_score": 0.838,
+      "mass": 24.5,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_bcf0fbcbc43a",
+      "name": "Research",
+      "summary": "Archive cluster around research: 114 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "research",
+        "science",
+        "open",
+        "data",
+        "social"
+      ],
+      "artifacts": [
+        {
+          "id": "art_66faea1aa69d",
+          "title": "Research receipt from 2022-10-03",
+          "excerpt": "@ubiquity75 Intersting recent research on this!\nhttps://t.co/aTVcIK1jEY",
+          "source_document_id": "1576786178610601984",
+          "timestamp": "2022-10-03T04:08:14+00:00",
+          "url": "https://x.com/rtk254/status/1576786178610601984",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: research, science, open, data."
+        },
+        {
+          "id": "art_aaaeecb5831a",
+          "title": "Research receipt from 2023-03-14",
+          "excerpt": "GPT4 - veils are off, current big tech NLP losing any pretense of academic research: https://t.co/aEEJnXSwvc",
+          "source_document_id": "1635700963314122752",
+          "timestamp": "2023-03-14T17:54:34+00:00",
+          "url": "https://x.com/rtk254/status/1635700963314122752",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: research, science, open, data."
+        },
+        {
+          "id": "art_7e88aba0c175",
+          "title": "Research receipt from 2024-08-14",
+          "excerpt": "@mmbronstein The processes that shape what research questions are asked, how they are pursued, what research gets attention, all of these are political. See research by @yoginho  @evantthompson \nfor example below https://t.co/HnbYCVeCaT https://t.co/RY8eY3JXeh",
+          "source_document_id": "1823725524751147274",
+          "timestamp": "2024-08-14T14:17:02+00:00",
+          "url": "https://x.com/rtk254/status/1823725524751147274",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: research, science, open, data."
+        },
+        {
+          "id": "art_e11fb44317c1",
+          "title": "Research receipt from 2024-06-18",
+          "excerpt": "📢 Hey #ScienceTwitter! Would you join an open science social media mirroring service? It would ensure that all your research-related posts were citeable &amp; open access, regardless of source platform (X, Masto, Bsky,)! \n🔁 RT if you’re interested \n📊 Also - vote below for features…",
+          "source_document_id": "1803100275990794566",
+          "timestamp": "2024-06-18T16:19:40+00:00",
+          "url": "https://x.com/rtk254/status/1803100275990794566",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: research, science, open, data."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_1296424664a6",
+      "proof_score": 0.824,
+      "mass": 24.425,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_66b6e8ccd719",
+      "name": "Science",
+      "summary": "Archive cluster around science: 89 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "science",
+        "open",
+        "social",
+        "media",
+        "asterainstitute"
+      ],
+      "artifacts": [
+        {
+          "id": "art_43e34a3ee683",
+          "title": "Science receipt from 2023-08-27",
+          "excerpt": "A lot has been written about how the traditional science model of publishing and peer review is broken. One connection I haven’t seen made is with the **sensemaking** literature, which studies how people understand complex topics 🧵  1/ https://t.co/Vr3dK4XkKK",
+          "source_document_id": "1695785300360847415",
+          "timestamp": "2023-08-27T13:08:16+00:00",
+          "url": "https://x.com/rtk254/status/1695785300360847415",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: science, open, social, media."
+        },
+        {
+          "id": "art_3cb8769e4376",
+          "title": "Science receipt from 2024-03-01",
+          "excerpt": "Loving @aka_MatsuLab 's talk at @descieth @ CU Denver today! Moving from monoculture science to permaculture science with distributed &amp; collaborative tools for thought🌱🌱🌱 https://t.co/IcY2xqPdfV",
+          "source_document_id": "1763653700306837969",
+          "timestamp": "2024-03-01T19:53:03+00:00",
+          "url": "https://x.com/rtk254/status/1763653700306837969",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: science, open, social, media."
+        },
+        {
+          "id": "art_32de5f3b1bf2",
+          "title": "Science receipt from 2024-09-06",
+          "excerpt": "Active inference models of science 👀\nhttps://t.co/HqqIizm5WV",
+          "source_document_id": "1832036841303781606",
+          "timestamp": "2024-09-06T12:43:15+00:00",
+          "url": "https://x.com/rtk254/status/1832036841303781606",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: science, open, social, media."
+        },
+        {
+          "id": "art_97d38f2959ba",
+          "title": "Science receipt from 2024-01-26",
+          "excerpt": "reason #651 why it's time to rethink and rebuild science social media as a piece of critical scientific infrastructure\nhttps://t.co/ECG69roJcr https://t.co/nIgXoO1eSk",
+          "source_document_id": "1750737971471351876",
+          "timestamp": "2024-01-26T04:30:34+00:00",
+          "url": "https://x.com/rtk254/status/1750737971471351876",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: science, open, social, media."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_ab4fabd13571",
+      "proof_score": 0.8,
+      "mass": 23.297,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
